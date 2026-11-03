@@ -1,0 +1,91 @@
+npm notice run fixledger-server@1.0.0 dev
+npm notice run node --watch src/server.js
+node:events:505
+    throw er; // Unhandled 'error' event
+    ^
+
+Error: listen EADDRINUSE: address already in use :::5000
+    at Server.setupListenHandle [as _listen2] (node:net:2324:16)
+    at listenInCluster (node:net:2433:12)
+    at Server.listen (node:net:2558:7)
+    at app.listen (C:\Users\Sunil\Desktop\25070521255\server\node_modules\express\lib\application.js:635:24)
+    at startServer (file:///C:/Users/Sunil/Desktop/25070521255/server/src/server.js:9:7)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+Emitted 'error' event on Server instance at:
+    at emitErrorNT (node:net:2412:8)
+    at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 5000
+}
+
+Node.js v26.7.0
+Error: bad auth : authentication failed
+node:events:505
+    throw er; // Unhandled 'error' event
+    ^
+
+Error: listen EADDRINUSE: address already in use :::5000
+    at Server.setupListenHandle [as _listen2] (node:net:2324:16)
+    at listenInCluster (node:net:2433:12)
+    at Server.listen (node:net:2558:7)
+    at app.listen (C:\Users\Sunil\Desktop\25070521255\server\node_modules\express\lib\application.js:635:24)
+    at startServer (file:///C:/Users/Sunil/Desktop/25070521255/server/src/server.js:9:7)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+Emitted 'error' event on Server instance at:
+    at emitErrorNT (node:net:2412:8)
+    at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 5000
+}
+
+Node.js v26.7.0
+node:events:505
+    throw er; // Unhandled 'error' event
+    ^
+
+Error: listen EADDRINUSE: address already in use :::5000
+    at Server.setupListenHandle [as _listen2] (node:net:2324:16)
+    at listenInCluster (node:net:2433:12)
+    at Server.listen (node:net:2558:7)
+    at app.listen (C:\Users\Sunil\Desktop\25070521255\server\node_modules\express\lib\application.js:635:24)
+    at startServer (file:///C:/Users/Sunil/Desktop/25070521255/server/src/server.js:9:7)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+Emitted 'error' event on Server instance at:
+    at emitErrorNT (node:net:2412:8)
+    at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 5000
+}
+
+Node.js v26.7.0
+node:events:505
+    throw er; // Unhandled 'error' event
+    ^
+
+Error: listen EADDRINUSE: address already in use :::5000
+    at Server.setupListenHandle [as _listen2] (node:net:2324:16)
+    at listenInCluster (node:net:2433:12)
+    at Server.listen (node:net:2558:7)
+    at app.listen (C:\Users\Sunil\Desktop\25070521255\server\node_modules\express\lib\application.js:635:24)
+    at startServer (file:///C:/Users/Sunil/Desktop/25070521255/server/src/server.js:9:7)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+Emitted 'error' event on Server instance at:
+    at emitErrorNT (node:net:2412:8)
+    at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 5000
+}
+
+Node.js v26.7.0

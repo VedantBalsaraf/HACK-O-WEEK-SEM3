@@ -1,0 +1,53 @@
+Re-optimizing dependencies because lockfile has changed
+
+  VITE v5.4.21  ready in 511 ms
+
+  ➜  Local:   http://127.0.0.1:5173/
+  ➜  press h + enter to show help
+4:43:56 pm [vite] hmr update /src/styles/visual-theme.css
+4:46:24 pm [vite] hmr update /src/styles/visual-theme.css
+4:47:47 pm [vite] hmr update /src/styles/visual-theme.css
+4:49:08 pm [vite] hmr update /src/styles/visual-theme.css
+4:51:42 pm [vite] hmr update /src/pages/LandingPage.jsx
+4:51:49 pm [vite] hmr update /src/styles/layout.css
+4:52:13 pm [vite] hmr update /src/styles/visual-theme.css
+4:53:50 pm [vite] hmr update /src/styles/layout.css
+4:55:49 pm [vite] hmr update /src/styles/layout.css
+4:57:24 pm [vite] hmr update /src/styles/layout.css
+5:00:15 pm [vite] hmr update /src/styles/visual-theme.css
+5:05:52 pm [vite] hmr update /src/pages/DashboardPage.jsx
+5:05:52 pm [vite] hmr update /src/pages/DevicesPage.jsx
+5:05:52 pm [vite] hmr update /src/styles/visual-theme.css
+5:06:35 pm [vite] hmr update /src/pages/DevicesPage.jsx
+5:11:34 pm [vite] hmr update /src/pages/DashboardPage.jsx
+5:11:34 pm [vite] hmr update /src/pages/DevicesPage.jsx
+5:11:34 pm [vite] hmr update /src/pages/CostInsightsPage.jsx
+5:11:34 pm [vite] hmr update /src/pages/ProfilePage.jsx
+5:11:34 pm [vite] hmr update /src/pages/DevicePassportPage.jsx
+5:16:33 pm [vite] hmr update /src/pages/DashboardPage.jsx
+5:16:41 pm [vite] hmr update /src/pages/DashboardPage.jsx
+5:19:44 pm [vite] hmr update /src/pages/DashboardPage.jsx
+5:22:49 pm [vite] hmr update /src/App.jsx
+5:22:57 pm [vite] hmr update /src/components/Header.jsx
+5:23:25 pm [vite] hmr update /src/components/GooeyNav.jsx
+5:23:25 pm [vite] hmr update /src/components/Header.jsx
+5:23:25 pm [vite] hmr update /src/components/GlassIcons.css
+5:23:34 pm [vite] hmr update /src/components/GlassIcons.jsx
+5:23:34 pm [vite] hmr update /src/App.jsx
+5:24:01 pm [vite] hmr update /src/components/Header.jsx
+5:24:01 pm [vite] hmr update /src/components/GooeyNav.jsx
+5:24:33 pm [vite] hmr update /src/components/Header.jsx
+5:24:41 pm [vite] hmr update /src/styles/visual-theme.css
+5:25:56 pm [vite] hmr update /src/App.jsx
+5:27:54 pm [vite] hmr update /src/App.jsx
+5:28:07 pm [vite] hmr update /src/styles/visual-theme.css
+5:28:21 pm [vite] hmr update /src/components/GlassIcons.css
+5:29:27 pm [vite] hmr update /src/styles/visual-theme.css
+5:33:15 pm [vite] hmr update /src/pages/LandingPage.jsx
+5:33:30 pm [vite] hmr update /src/styles/visual-theme.css
+5:34:52 pm [vite] hmr update /src/pages/LandingPage.jsx
+5:36:38 pm [vite] hmr update /src/pages/ProfilePage.jsx
+5:36:44 pm [vite] hmr update /src/pages/DevicesPage.jsx
+5:36:49 pm [vite] hmr update /src/pages/CostInsightsPage.jsx
+5:36:57 pm [vite] hmr update /src/pages/DevicePassportPage.jsx
+5:37:03 pm [vite] hmr update /src/styles/visual-theme.css

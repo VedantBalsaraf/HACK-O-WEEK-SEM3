@@ -1,0 +1,29 @@
+MongoDB Connected: localhost
+Failed running 'src/server.js'. Waiting for file changes before restarting...
+Change detected in 'C:\\Users\\Sunil\\Desktop\\25070521255\\server\\src\\routes\\deviceRoutes.js'
+Restarting 'src/server.js'
+Change detected in 'C:\\Users\\Sunil\\Desktop\\25070521255\\server\\node_modules\\mongoose\\lib\\index.js'
+Restarting 'src/server.js'
+MongoDB Connected: localhost
+Failed running 'src/server.js'. Waiting for file changes before restarting...
+Change detected in 'C:\\Users\\Sunil\\Desktop\\25070521255\\server\\src\\controllers\\deviceController.js'
+Restarting 'src/server.js'
+MongoDB Connected: localhost
+Server running in development mode on port 5000
+Change detected in 'C:\\Users\\Sunil\\Desktop\\25070521255\\server\\src\\controllers\\deviceController.js'
+Restarting 'src/server.js'
+MongoDB Connected: localhost
+Failed running 'src/server.js'. Waiting for file changes before restarting...
+Change detected in 'C:\\Users\\Sunil\\Desktop\\25070521255\\server\\node_modules\\mongoose\\lib\\schema.js'
+Restarting 'src/server.js'
+Change detected in 'C:\\Users\\Sunil\\Desktop\\25070521255\\server\\node_modules\\mquery\\lib\\permissions.js'
+Restarting 'src/server.js'
+Failed running 'src/server.js'. Waiting for file changes before restarting...
+Change detected in 'C:\\Users\\Sunil\\Desktop\\25070521255\\server\\src\\models\\Device.js'
+Restarting 'src/server.js'
+MongoDB Connected: ac-pbxgopz-shard-00-00.b93cydn.mongodb.net
+Failed running 'src/server.js'. Waiting for file changes before restarting...
+Change detected in 'C:\\Users\\Sunil\\Desktop\\25070521255\\server\\src\\controllers\\deviceControllChange Restarting 'src/server.js'
+MongoDB Connected: ac-pbxgopz-shard-00-00.b93cydn.mongodb.net
+Server running in development mode on MongoDB Connected: ac-pbxgopz-shard-00-00.b93cydn.mongodb.net
+Failed running 'src/server.js'. Waiting for file changes before restarting...
